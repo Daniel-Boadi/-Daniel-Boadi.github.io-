@@ -2,8 +2,9 @@ header {
     background-color: rgb(55, 0, 255);
 }
 
-h1, h2 {
-  font-family: Arial, Helvetica, sans-serif;
+h1,
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 footer {
