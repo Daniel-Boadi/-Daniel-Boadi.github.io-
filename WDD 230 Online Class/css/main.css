@@ -1,15 +1,15 @@
-header, footer{
-    background-color: aqua;
+header {
+    background-color: rgb(55, 0, 255);
 }
 
-h1, h2{
+h1, h2 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-footer{
+footer {
     align-items: center;
 }
 
-.main-page{
+.main-page {
     background-color: white;
 }
