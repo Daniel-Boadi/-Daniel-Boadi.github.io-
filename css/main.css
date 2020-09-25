@@ -1,6 +1,7 @@
 header {
     background-color: rgb(0, 162, 255);
-    height: 200px;
+    height: 150px;
+    padding: 5px;
 }
 
 h1{
@@ -12,16 +13,19 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-footer {
+footer div {
     align-items: center;
     background-color: rgb(0, 162, 255);
-    height: 100px;
+    height: 80px;
+    text-align: center;
 }
 
 .main-page {
     background-color: white;
+    margin-top: 50px;
 }
 
 img{
     float: right;
+
 }
