@@ -1,2 +1,4 @@
-var d = document . lastModified;
-document.getElementById("lastModified") .innerHTML= d;
+function year(){
+var d = document.lastModified;
+document.getElementById("day").innerHTML= d;
+}
