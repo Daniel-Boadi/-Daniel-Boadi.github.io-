@@ -2,6 +2,7 @@ header {
     background-color: rgb(194, 108, 144);
     height: 120px;
     padding: 5px;
+    border-radius: 6px;
 }
 
 h1{
@@ -23,6 +24,9 @@ footer div {
     text-align: center;
     margin: 10px;
     padding: 20px;
+    border-radius: 6px;
+    color: White;
+    font-size: 
 }
 
 .main-page {
